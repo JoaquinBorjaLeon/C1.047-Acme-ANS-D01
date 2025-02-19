@@ -25,3 +25,6 @@ replay_pid*
 
 # Target Folder #
 /target/*
+
+# Classpath File #
+.classpath
