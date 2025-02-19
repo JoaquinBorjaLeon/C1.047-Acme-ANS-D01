@@ -24,7 +24,9 @@ hs_err_pid*
 replay_pid*
 
 # Target Folder #
+/target/
 /target/*
 
 # Classpath File #
 .classpath
+
