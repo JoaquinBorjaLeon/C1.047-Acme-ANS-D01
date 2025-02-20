@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="77934097T: Borja Leon, Joaquin" action="https://github.com/JoaquinBorjaLeon"/>
 			<acme:menu-suboption code="53988016R: Escobar Capilla, Ariel" action="https://github.com/ArielEC"/>
 			<acme:menu-suboption code="29494386Z: Rodríguez Durán, José Ángel" action="https://github.com/DLJ7666"/>
+			<acme:menu-suboption code="54182158T: Guerra Prada, Héctor" action="https://github.com/HectorGuePra"/>
 			<acme:menu-suboption code="20503423G: León Madroñal, Juan Carlos" action="https://github.com/jualeomad"/>
 		</acme:menu-option>
 
