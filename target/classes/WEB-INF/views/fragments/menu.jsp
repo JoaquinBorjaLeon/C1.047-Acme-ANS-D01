@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="77934097T: Borja Leon, Joaquin" action="https://github.com/JoaquinBorjaLeon"/>
 			<acme:menu-suboption code="53988016R: Escobar Capilla, Ariel" action="https://github.com/ArielEC"/>
+			<acme:menu-suboption code="29494386Z: Rodríguez Durán, José Ángel" action="https://github.com/DLJ7666"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRealm('Administrator')">
