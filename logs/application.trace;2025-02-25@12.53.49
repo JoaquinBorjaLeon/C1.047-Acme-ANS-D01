@@ -1,0 +1,16 @@
+request-id,request-method,request-path,request-query,request-payload,response-status,response-content-type,response-payload,response-oops,pre-handle-timestamp,post-handle-timestamp,"after-completion-timestamp"
+"2a54df56-f146-4f3c-a96b-aa538852f874",GET,/any/system/welcome,,,200,text/html;charset=utf-8,,,6574563991400,6574631363100,6578042941000
+"1786b694-3561-46b3-8287-77c150d9f37d",GET,"/libraries/fontawesome/5.2.0/css/all.min.css",,,200,text/css,,,6578132702700,6578140250300,6578141229200
+"923a7543-c3d8-442d-874a-f5a9202a2af9",GET,"/libraries/bootstrap/4.1.3/css/bootstrap.min.css",,,200,text/css,,,6578145749800,6578147955100,6578148913700
+"b66d8e9d-4047-44fc-842b-b4734fc557f9",GET,"/libraries/datatables/1.10.18/css/datatables.min.css",,,200,text/css,,,6578162774700,6578164716900,6578165614900
+"c1ff2828-84e3-4f1d-9d0d-492a133d783a",GET,"/libraries/jquery/3.3.1/js/jquery.min.js",,,200,application/javascript,,,6578169451100,6578171675300,6578172986900
+"159fe340-8827-4a7a-9552-ffc561035476",GET,"/libraries/popper.js/1.14.4/js/popper.min.js",,,200,application/javascript,,,6578177359900,6578179205700,6578180030900
+"a2b1bcf2-bdc9-46e0-9f4e-cdad621acf28",GET,"/libraries/bootstrap/4.1.3/js/bootstrap.min.js",,,200,application/javascript,,,6578184242800,6578186458900,6578187709200
+"1ad2ed0a-b35f-4899-92ed-debdeeb32142",GET,"/libraries/chart.js/2.7.2/js/chart.bundle.min.js",,,200,application/javascript,,,6578191752700,6578193819400,6578194667200
+"836c83f8-46cf-4b7b-960e-c79396bcf488",GET,"/libraries/areyousure/1.9.0/js/areyousure.min.js",,,200,application/javascript,,,6578198757200,6578200560100,6578201373000
+"247d1c17-0015-4f27-9fbe-7187c0e40bb1",GET,"/libraries/datatables/1.10.18/js/jquery.datatables.min.js",,,200,application/javascript,,,6578205565800,6578208727300,6578209588800
+"27ab4e0f-684b-49d0-a26f-c078fe1f9797",GET,"/libraries/datatables/1.10.18/js/datatables.min.js",,,200,application/javascript,,,6578213968300,6578216592300,6578217790200
+"4f3e14e8-c305-48cd-999a-ebb65f0e7370",GET,"/libraries/acme/css/acme.css",,,200,text/css,,,6578227032000,6578230240500,6578231379700
+"9b099c4c-2e69-449e-a045-5720417be979",GET,"/libraries/acme/js/acme.js",,,200,application/javascript,,,6578237199300,6578238795900,6578239419100
+"df9cd462-9572-41bf-bb42-ba43af4c9103",GET,/images/banner.png,,,200,image/png,,,6578247275700,6578249926600,6578250952800
+"9f3c0278-7cfc-4615-93c9-5dd14ea01784",GET,/images/logo.png,,,200,image/png,,,6578257359200,6578260096600,6578261231500
